@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
+#Copyright@ CHEN SHISHENG
 """
-Created on Mon Sep 27 11:48:00 2021
+@author: CHEN SHISHENG, chenshisheng@u.nus.edu
 
-@author: CHEN SHISHENG
+Codes for data extraction of environmental parameters
 """
 import glob
 import os 
@@ -10,8 +11,8 @@ import numpy as np
 import pandas as pd
 import csv
 from datetime import datetime
-s
 from dateutil import parser
+
 def run():
     
     #%%
